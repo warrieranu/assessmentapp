@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Restart postgresql everytime you start workng
+sudo service postgresql restart
 
-Things you may want to cover:
+Start with restarting postgresql server on c9
+sudo service postgresql restart
 
-* Ruby version
+Colour scheme of the website:
+https://coolors.co/222222-7fc6a4-ffffff-457aab-bbcde5
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
