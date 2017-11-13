@@ -35,6 +35,8 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'figaro'
 #Use omniauth for social media login
 gem 'omniauth-facebook'
+#Add jquery
+gem 'jquery-rails'
 
 
 # Use Capistrano for deployment
